@@ -1,8 +1,8 @@
 {
   "name": "typographix-blog-project",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
+  "description": "https://chadgomez.github.io/Typographix-Blog/",
+  "homepage": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "sass-dev": "sass --watch --source-map css/scss/main.scss:css/compiled_style.css",
