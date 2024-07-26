@@ -122,8 +122,8 @@ nav .nav-right a:hover {
   margin: 0 15px;
   background: var(--box-shadow-container);
   box-shadow: var(--box-shadow);
-  padding: 20px;
-  border-radius: 5px;
+  padding: 40px;
+  border-radius: 10px;
 }
 .article h2 {
   font-size: 1.8rem;
@@ -200,8 +200,8 @@ article p {
   margin: 0 15px;
   background: var(--box-shadow-container);
   box-shadow: var(--box-shadow);
-  padding: 20px;
-  border-radius: 5px;
+  padding: 40px;
+  border-radius: 10px;
 }
 
 .skeleton-image, .skeleton-line {
@@ -260,7 +260,7 @@ footer .social-icons a:hover {
   filter: brightness(0.9);
 }
 
-/* Media Queries --------------------- */
+/* Media Queries  */
 /* Tablet Vertical */
 @media screen and (max-width: 1025px) {
   .nav-left h1 {
